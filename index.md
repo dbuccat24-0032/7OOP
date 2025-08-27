@@ -7,10 +7,10 @@
 - [Project 1]()
 
 ## 📫 Contact Me
-[Email Me](mailto:dbuccat24-0032@cca.edu.ph)
-[Facebook](https://www.facebook.com/danielrobbuccat/)
-[Instagram](https://www.instagram.com/danielrobbuccat/)
-[Youtube](https://youtube.com/@DanroTheGamer) 
-[Tiktok](https://www.tiktok.com/@danielrobertbuccat)
+- [Email Me](mailto:dbuccat24-0032@cca.edu.ph)
+- [Facebook](https://www.facebook.com/danielrobbuccat/)
+- [Instagram](https://www.instagram.com/danielrobbuccat/)
+- [Youtube](https://www.youtube.com/@DanielRobertBuccat)
+- [Tiktok](https://www.tiktok.com/@danielrobertbuccat)
 
 ---
