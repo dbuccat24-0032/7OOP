@@ -16,7 +16,7 @@
 ---
 
 ## 📫 Contact Me
-- [CCA Email](dbuccat24-0032@cca.edu.ph)
+- [Email Me](mailto:dbuccat24-0032@cca.edu.ph)
 - [Facebook](https://www.facebook.com/danielrobbuccat/)
 - [Instagram](https://www.instagram.com/danielrobbuccat/)
 - [Youtube](https://youtube.com/@DanroTheGamer) 
