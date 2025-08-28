@@ -2,17 +2,12 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="160">
-      <img src="Images/Profile.jpg" alt="My Picture" width="150"/>
-    </td>
-    <td>
-      👋 Hello, I'm **Daniel Robert Buccat**  
-      🎓 A 2nd Year Computer Science Student at [**City College of Angeles (CCA)**](https://www.facebook.com/CityCollegeOfAngeles)
-    </td>
-  </tr>
-</table>
+<img src="Images/Profile.jpg" alt="My Picture" width="120" align="left" />
+
+👋 Hello, I'm **Daniel Robert Buccat**  
+🎓 A 2nd Year Computer Science Student at [**City College of Angeles (CCA)**](https://www.facebook.com/CityCollegeOfAngeles)  
+
+<br clear="left"/>
 
 ---
 
