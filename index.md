@@ -2,6 +2,7 @@
 
 ---
 
+## 📖 About Me  
 <img src="Images/Profile.jpg" alt="My Picture" width="120" align="left" />
 
 👋 Hello, I'm **Daniel Robert Buccat**  
