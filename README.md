@@ -11,8 +11,7 @@
 Hi! 👋  
 I am **Daniel Robert Buccat**, a **2nd Year Computer Science Student** currently studying at [**City College of Angeles (CCA)**](https://www.facebook.com/CityCollegeOfAngeles).  
 
-![My Picture](Images/Profile.jpg)  
-*(Replace this with your real picture link or upload to your repo and link it here)*  
+![My Picture](Images/Profile.jpg){: width="200px"}
 
 ---
 
