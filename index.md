@@ -25,7 +25,7 @@
 - 🌐 HTML, CSS
 - 🖥️ C
 - 🐘 PHP  
-- 📊 SQL  
+- 📊 MYSQL  
 
 ---
 
@@ -37,9 +37,9 @@
 ---
 
 ## 🎉 Fun Facts About Me  
-- 🎮 Gamer at heart 🎸 Guitar enthusiast  
-- 🎥 Love making YouTube content  
-- ✨ Curious learner, always exploring new things  
+- 🎮 I enjoy playing games in my free time.
+- 🎸 I love playing the guitar and making music.
+- 🎥 I like creating YouTube content.
 
 ---
 
