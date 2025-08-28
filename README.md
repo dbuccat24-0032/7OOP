@@ -44,7 +44,6 @@
 - 🎮 I enjoy playing games in my free time.  
 - 🎸 I love playing the guitar and making music.  
 - 🎥 I like creating YouTube content.  
-- ✨ I’m always curious and eager to learn new things.  
 
 ---
 
