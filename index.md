@@ -30,12 +30,12 @@
 ---
 
 ## 🚀 Featured Projects  
-- [Project 1](#Projects/Lab Task 1.pdf)  
-- [Project 2](#Projects/Lab Task 2.pdf)  
-- [Project 3](#Projects/Lab Task 3.pdf)
-- [Project 4](#Projects/Lab Task 4.pdf)
-- [Project 5](#Projects/Lab Task 5.pdf)
-- [Project 6](#Projects/Lab Task 6.pdf)
+- [Project 1](./Projects/Lab%20Task%201.pdf)  
+- [Project 2](./Projects/Lab%20Task%202.pdf)  
+- [Project 3](./Projects/Lab%20Task%203.pdf)  
+- [Project 4](./Projects/Lab%20Task%204.pdf)  
+- [Project 5](./Projects/Lab%20Task%205.pdf)  
+- [Project 6](./Projects/Lab%20Task%206.pdf)
 
 ---
 
