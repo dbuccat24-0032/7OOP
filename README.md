@@ -33,14 +33,15 @@
 
 ---
 
-## 🚀 Projects  
-- [Project 1](./Projects/Lab%20Task%201.pdf)  
-- [Project 2](./Projects/Lab%20Task%202.pdf)  
-- [Project 3](./Projects/Lab%20Task%203.pdf)  
-- [Project 4](./Projects/Lab%20Task%204.pdf)  
-- [Project 5](./Projects/Lab%20Task%205.pdf)  
-- [Project 6](./Projects/Lab%20Task%206.pdf)
-
+## 🚀 Projects
+- [Project 1](./Projects/Midterm%20Paired%20Task%201.pdf) - Midterm Paired Task 1
+- [Project 2](./Projects/Lab%20Task%201.pdf) - Midterm Lab Task 1 Getting started with Python
+- [Project 3](./Projects/Lab%20Task%202.pdf) - Midterm Lab Task 2 Loop Construct
+- [Project 4](./Projects/Lab%20Task%203.pdf) - Midterm Lab Task 3. Using List Collections
+- [Project 5](./Projects/Lab%20Task%204.pdf) - Midterm Lab Task 4. Using Dictionary Collections
+- [Project 6](./Projects/Lab%20Task%205.pdf) - Midterm Lab Task 5. Creating and Instantiating Classes
+- [Project 7](./Projects/Lab%20Task%206.pdf) - Midterm Lab Task 6. Overloaded Consturctors
+  
 ---
 
 ## 🎉 Fun Facts About Me  
