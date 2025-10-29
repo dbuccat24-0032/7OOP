@@ -63,23 +63,50 @@
   <b>Python &nbsp;•&nbsp; Java &nbsp;•&nbsp; HTML &nbsp;•&nbsp; CSS &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; C &nbsp;•&nbsp; SQL</b>
 </p>
 
-## 🗂️ Projects
-### Midterms
-- [Project 1](./Projects/Midterms/Paired%20Task%201.pdf) - Midterm Paired Task 1
-- [Project 2](./Projects/Midterms/Lab%20Task%201.pdf) - Midterm Lab Task 1 Getting started with Python
-- [Project 3](./Projects/Midterms/Lab%20Task%202.pdf) - Midterm Lab Task 2 Loop Construct
-- [Project 4](./Projects/Midterms/Lab%20Task%203.pdf) - Midterm Lab Task 3. Using List Collections
-- [Project 5](./Projects/Midterms/Lab%20Task%204.pdf) - Midterm Lab Task 4. Using Dictionary Collections
-- [Project 6](./Projects/Midterms/Lab%20Task%205.pdf) - Midterm Lab Task 5. Creating and Instantiating Classes
-- [Project 7](./Projects/Midterms/Lab%20Task%206.pdf) - Midterm Lab Task 6. Overloaded Constructors
+## 🗂️ **Projects**
 
-### Finals
-- [Project 1](./Projects/Finals/Lab%20Task%201.pdf) - Finals Lab Task 1. Encapsulation
-- [Project 2](./Projects/Finals/Lab%20Task%202.pdf) - Finals Task 2. Inheritance
-- [Project 3](./Projects/Finals/Lab%20Task%203.pdf) - Finals Task 3. Polymorphism 
-- [Project 4](./Projects/Finals/Lab%20Task%204.pdf) -
-- [Project 5](./Projects/Finals/Lab%20Task%205.pdf) -
-- [Project 6](./Projects/Finals/Lab%20Task%206.pdf) -
+### 📘 **Midterm Projects**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li><a href="./Projects/Midterms/Paired%20Task%201.pdf"><b>Project 1:</b> Midterm Paired Task 1</a></li>
+        <li><a href="./Projects/Midterms/Lab%20Task%201.pdf"><b>Project 2:</b> Getting Started with Python</a></li>
+        <li><a href="./Projects/Midterms/Lab%20Task%202.pdf"><b>Project 3:</b> Loop Construct</a></li>
+        <li><a href="./Projects/Midterms/Lab%20Task%203.pdf"><b>Project 4:</b> Using List Collections</a></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li><a href="./Projects/Midterms/Lab%20Task%204.pdf"><b>Project 5:</b> Using Dictionary Collections</a></li>
+        <li><a href="./Projects/Midterms/Lab%20Task%205.pdf"><b>Project 6:</b> Creating & Instantiating Classes</a></li>
+        <li><a href="./Projects/Midterms/Lab%20Task%206.pdf"><b>Project 7:</b> Overloaded Constructors</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎓 **Final Projects**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li><a href="./Projects/Finals/Lab%20Task%201.pdf"><b>Project 1:</b> Encapsulation</a></li>
+        <li><a href="./Projects/Finals/Lab%20Task%202.pdf"><b>Project 2:</b> Inheritance</a></li>
+        <li><a href="./Projects/Finals/Lab%20Task%203.pdf"><b>Project 3:</b> Polymorphism</a></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li><a href="./Projects/Finals/Lab%20Task%204.pdf"><b>Project 4:</b> —</a></li>
+        <li><a href="./Projects/Finals/Lab%20Task%205.pdf"><b>Project 5:</b> —</a></li>
+        <li><a href="./Projects/Finals/Lab%20Task%206.pdf"><b>Project 6:</b> —</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
   
 ## 🎉 Fun Facts About Me  
 - 🎮 I enjoy playing games in my free time.  
