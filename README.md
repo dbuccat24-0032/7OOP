@@ -17,57 +17,34 @@
   </tr>
 </table>
 
-## 🧠 Skills  
+## 🧠 Skills
 
-### 🚀 **Areas of Interest**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" width="45" /> <b>Web Development</b>  
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=unity,cs" width="45" /> <b>Game Development</b>  
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio" width="45" /> <b>Mobile App Development</b>  
+### 💻 **Programming Languages**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" width="55"/>  
+  <img src="https://skillicons.dev/icons?i=java" width="55"/>  
+  <img src="https://skillicons.dev/icons?i=html" width="55"/>  
+  <img src="https://skillicons.dev/icons?i=css" width="55"/>  
+  <img src="https://skillicons.dev/icons?i=js" width="55"/>  
+  <img src="https://skillicons.dev/icons?i=c" width="55"/>  
+  <img src="https://skillicons.dev/icons?i=mysql" width="55"/>  
+</p>
+
+<p align="center">
+  <b>Python &nbsp;•&nbsp; Java &nbsp;•&nbsp; HTML &nbsp;•&nbsp; CSS &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; C &nbsp;•&nbsp; SQL</b>
 </p>
 
 ---
 
-### 💻 **Programming Languages**  
+### 🚀 **Areas of Interest**  
 <p align="center">
-  <table>
-    <tr align="center">
-      <td>
-        <img src="https://skillicons.dev/icons?i=python" width="55"/><br>
-        <b>Python</b>
-      </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=java" width="55"/><br>
-        <b>Java</b>
-      </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=html" width="55"/><br>
-        <b>HTML</b>
-      </td>
-    </tr>
-    <tr align="center">
-      <td>
-        <img src="https://skillicons.dev/icons?i=css" width="55"/><br>
-        <b>CSS</b>
-      </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=js" width="55"/><br>
-        <b>JavaScript</b>
-      </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=c" width="55"/><br>
-        <b>C</b>
-      </td>
-    </tr>
-    <tr align="center">
-      <td colspan="3">
-        <img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
-        <b>SQL</b>
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=html,css,js" width="55" />  
+  <img src="https://skillicons.dev/icons?i=unity,cs" width="55" />  
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio" width="55" />  
+</p>
+
+<p align="center">
+  <b>Web Development &nbsp;•&nbsp; Game Development &nbsp;•&nbsp; Mobile App Development</b>
 </p>
 
 ## Projects
