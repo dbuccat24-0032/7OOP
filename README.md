@@ -32,19 +32,42 @@
 
 ### 💻 **Programming Languages**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="60" /><br><b>Python</b>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=java" width="60" /><br><b>Java</b>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=html" width="60" /><br><b>HTML</b>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=css" width="60" /><br><b>CSS</b>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=js" width="60" /><br><b>JavaScript</b>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=c" width="60" /><br><b>C</b>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=mysql" width="60" /><br><b>SQL</b>
+  <table>
+    <tr align="center">
+      <td>
+        <img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+        <b>Python</b>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=java" width="55"/><br>
+        <b>Java</b>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=html" width="55"/><br>
+        <b>HTML</b>
+      </td>
+    </tr>
+    <tr align="center">
+      <td>
+        <img src="https://skillicons.dev/icons?i=css" width="55"/><br>
+        <b>CSS</b>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=js" width="55"/><br>
+        <b>JavaScript</b>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=c" width="55"/><br>
+        <b>C</b>
+      </td>
+    </tr>
+    <tr align="center">
+      <td colspan="3">
+        <img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
+        <b>SQL</b>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ## Projects
