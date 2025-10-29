@@ -1,1 +1,5 @@
-theme: jekyll-theme-slate
+title: "Daniel Robert Buccat | 7OOP Portfolio"
+description: "Midterm and Final Projects for 7OOP — City College of Angeles"
+theme: jekyll-theme-cayman
+show_downloads: false
+markdown: kramdown
