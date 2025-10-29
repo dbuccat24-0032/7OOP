@@ -19,26 +19,32 @@
 
 ## 🧠 Skills  
 
-### 🎯 **Area of Interest**
+### Area of Interest
 
 <table>
   <tr>
     <td align="left" width="50%">
-      <img src="https://skillicons.dev/icons?i=html,css,js" width="80" />
+      <img src="https://skillicons.dev/icons?i=html,css,js" width="80" /><br>
       <b>Web Development</b>
     </td>
     <td align="left" width="50%">
-      <img src="https://skillicons.dev/icons?i=unity,cs" width="80" />
+      <img src="https://skillicons.dev/icons?i=unity,cs" width="80" /><br>
       <b>Game Development</b>
     </td>
   </tr>
   <tr>
     <td align="left" width="50%">
-      <img src="https://skillicons.dev/icons?i=flutter,androidstudio" width="80" />
+      <img src="https://skillicons.dev/icons?i=flutter,androidstudio" width="80" /><br>
       <b>Mobile App Development</b>
     </td>
+    <td align="left" width="50%"></td>
+  </tr>
+  <tr>
+    <td align="left" width="50%"></td>
+    <td align="left" width="50%"></td>
   </tr>
 </table>
+
 
 ### 💻 **Programming Languages**  
 <p align="left">
