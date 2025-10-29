@@ -19,21 +19,6 @@
 
 ## 🧠 Skills  
 
-### 💻 **Programming Languages**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="45" /> <b>Python</b>  
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=java" width="45" /> <b>Java</b>  
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js" width="45" /> <b>HTML, CSS, JavaScript</b>  
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=c" width="45" /> <b>C</b>  
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=mysql" width="45" /> <b>SQL</b>  
-</p>
-
----
-
 ### 🚀 **Areas of Interest**  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js" width="45" /> <b>Web Development</b>  
@@ -41,6 +26,25 @@
   <img src="https://skillicons.dev/icons?i=unity,cs" width="45" /> <b>Game Development</b>  
   <br><br>
   <img src="https://skillicons.dev/icons?i=flutter,androidstudio" width="45" /> <b>Mobile App Development</b>  
+</p>
+
+---
+
+### 💻 **Programming Languages**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" width="60" /><br><b>Python</b>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=java" width="60" /><br><b>Java</b>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=html" width="60" /><br><b>HTML</b>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=css" width="60" /><br><b>CSS</b>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=js" width="60" /><br><b>JavaScript</b>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=c" width="60" /><br><b>C</b>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=mysql" width="60" /><br><b>SQL</b>
 </p>
 
 ## Projects
