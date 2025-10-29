@@ -17,7 +17,6 @@
     <td width="70%" valign="top">
       <h1 align="left">Hi there! I'm Daniel Robert Buccat 👋</h1>
       <h3 align="left">2nd Year Computer Science Student at <a href="https://www.facebook.com/CityCollegeOfAngeles" target="_blank">City College of Angeles (CCA)</a></h3>
-      
       <p align="left">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&width=435&lines=Passionate+Student+Developer;Web+%7C+Game+%7C+Mobile+App+Developer;Always+Learning+and+Exploring+🚀" alt="Typing SVG" />
       </p>
@@ -30,11 +29,11 @@
 ## 🎯 Area of Interest  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" width="25" /> 💻 Web Development  
-  <br>
-  <img src="https://skillicons.dev/icons?i=unity,cs" width="25" /> 🎮 Game Development  
-  <br>
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio" width="25" /> 📱 Mobile App Development  
+  <img src="https://skillicons.dev/icons?i=html,css,js" width="40" /> Web Development  
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=unity,cs" width="40" /> Game Development  
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio" width="40" /> Mobile App Development  
 </p>
 
 ---
