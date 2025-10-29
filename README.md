@@ -17,9 +17,9 @@
   </tr>
 </table>
 
-## 🧠 Skills  
+## 💻 Skills  
 
-### Area of Interest
+### 🎯 Area of Interest
 
 <table>
   <tr>
@@ -45,7 +45,6 @@
   </tr>
 </table>
 
-
 ### 💻 **Programming Languages**  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" width="55"/>  
@@ -61,7 +60,7 @@
   <b>Python &nbsp;•&nbsp; Java &nbsp;•&nbsp; HTML &nbsp;•&nbsp; CSS &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; C &nbsp;•&nbsp; SQL</b>
 </p>
 
-## Projects
+## 🗂️ Projects
 ### Midterms
 - [Project 1](./Projects/Midterms/Paired%20Task%201.pdf) - Midterm Paired Task 1
 - [Project 2](./Projects/Midterms/Lab%20Task%201.pdf) - Midterm Lab Task 1 Getting started with Python
