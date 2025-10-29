@@ -5,19 +5,18 @@
 <table>
   <tr>
     <td width="25%" align="center">
-      <img src="Images/Profile.jpg" alt="Daniel Robert Buccat" width="220" style="border-radius:60%; box-shadow: 0px 0px 20px #00f0ff;"/>
+      <img src="Images/Profile.jpg" alt="Daniel Robert Buccat" width="220" style="border-radius:60%; box-shadow: 0px 0px 25px #00f0ff;"/>
     </td>
     <td width="70%" valign="top">
-      <h1 align="left">Hi there! I'm <span style="color:#00f0ff;">Daniel Robert T. Buccat</span> 👋</h1>
-      <h3 align="left">🎓 2nd Year Computer Science Student at <a href="https://www.facebook.com/CityCollegeOfAngeles" target="_blank">City College of Angeles (CCA)</a></h3>
+      <h1 align="left">Welcome to My GitHub | <span style="color:#00f0ff;">Daniel Robert T. Buccat</span> 🚀</h1>
       <p align="left">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&width=500&lines=Guitarist,+YouTuber,+Cuber,+Developer;Always+Learning+and+Exploring+🚀" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=false&vCenter=true&width=480&lines=Guitarist+%7C+Youtuber+%7C+Cuber+%7C+Developer;Always+Learning+and+Exploring+🚀" alt="Typing SVG" />
       </p>
       <p align="left" style="font-size:16px;">
-        I'm a 2nd-year Computer Science student who loves building creative and functional projects.  
-        Beyond programming, I’m a guitarist who serves at my local church through music ministry.  
-        I also create Minecraft content on YouTube, where I share creativity, fun, and inspiration through gameplay.  
-        My journey is guided by faith, purpose, and the belief that every talent is a gift meant to be used for good.  
+        I’m a 2nd-year College Computer Science student at the <a href="https://www.facebook.com/CityCollegeOfAngeles" target="_blank">City College of Angeles (CCA)</a>.  
+        I love developing creative and functional projects that blend technology and imagination.  
+        Beyond coding, I’m a guitarist who serves at church through music ministry and a Minecraft YouTuber who shares creativity and joy through gameplay.  
+        Guided by faith and purpose, I believe that every talent is a gift meant to be used for something good.  
       </p>
       <blockquote align="left" style="font-style:italic; color:#00f0ff;">
         "And we know that in all things God works for the good of those who love him,  
