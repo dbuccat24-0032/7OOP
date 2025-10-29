@@ -11,7 +11,7 @@
       <h1 align="left">Hi there! I'm <span style="color:#00f0ff;">Daniel Robert T. Buccat</span> 👋</h1>
       <h3 align="left">🎓 2nd Year Computer Science Student at <a href="https://www.facebook.com/CityCollegeOfAngeles" target="_blank">City College of Angeles (CCA)</a></h3>
       <p align="left">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&width=480&lines=God+First;Developer;Guitarist;YouTuber;Cuber;Always+Learning+and+Exploring+🚀" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&width=500&lines=Guitarist,+YouTuber,+Cuber,+Developer;Always+Learning+and+Exploring+🚀" alt="Typing SVG" />
       </p>
       <p align="left" style="font-size:16px;">
         I'm a 2nd-year Computer Science student who loves building creative and functional projects.  
@@ -57,6 +57,8 @@
     </td>
   </tr>
 </table>
+
+---
 
 ### 💻 **Languages**  
 <p align="left">
