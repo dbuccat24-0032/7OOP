@@ -17,10 +17,10 @@
   </tr>
 </table>
 
-## 🧠 Skills
+## 🧠 Skills  
 
 ### 💻 **Programming Languages**  
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python" width="55"/>  
   <img src="https://skillicons.dev/icons?i=java" width="55"/>  
   <img src="https://skillicons.dev/icons?i=html" width="55"/>  
@@ -30,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" width="55"/>  
 </p>
 
-<p align="center">
+<p align="left">
   <b>Python &nbsp;•&nbsp; Java &nbsp;•&nbsp; HTML &nbsp;•&nbsp; CSS &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; C &nbsp;•&nbsp; SQL</b>
 </p>
 
