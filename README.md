@@ -23,25 +23,28 @@
 
 <table>
   <tr>
-    <td align="left" width="50%">
-      <img src="https://skillicons.dev/icons?i=html,css,js" width="80" /><br>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=html,css,js" width="80" />
+    </td>
+    <td align="left" width="75%">
       <b>Web Development</b>
     </td>
-    <td align="left" width="50%">
-      <img src="https://skillicons.dev/icons?i=unity,cs" width="80" /><br>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=unity,cs" width="80" />
+    </td>
+    <td align="left" width="75%">
       <b>Game Development</b>
     </td>
   </tr>
   <tr>
-    <td align="left" width="50%">
-      <img src="https://skillicons.dev/icons?i=flutter,androidstudio" width="80" /><br>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=flutter,androidstudio" width="80" />
+    </td>
+    <td align="left" width="75%">
       <b>Mobile App Development</b>
     </td>
-    <td align="left" width="50%"></td>
-  </tr>
-  <tr>
-    <td align="left" width="50%"></td>
-    <td align="left" width="50%"></td>
   </tr>
 </table>
 
