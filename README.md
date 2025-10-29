@@ -1,18 +1,27 @@
-# 🌐 7OOP Portfolio
+# 💼 7OOP Portfolio
 
 ## 📖 About Me  
 
 <table>
   <tr>
     <td width="25%" align="center">
-      <img src="Images/Profile.jpg" alt="Daniel Robert Buccat" width="200" style="border-radius:60%; box-shadow: 0px 0px 20px #00f0ff;"/>
+      <img src="Images/Profile.jpg" alt="Daniel Robert Buccat" width="220" style="border-radius:60%; box-shadow: 0px 0px 20px #00f0ff;"/>
     </td>
     <td width="70%" valign="top">
-      <h1 align="left">Hi there! I'm Daniel Robert Buccat 👋</h1>
-      <h3 align="left">2nd Year Computer Science Student at <a href="https://www.facebook.com/CityCollegeOfAngeles" target="_blank">City College of Angeles (CCA)</a></h3>
+      <h1 align="left">Hi there! I'm <span style="color:#00f0ff;">Daniel Robert Buccat</span> 👋</h1>
+      <h3 align="left">🎓 2nd Year Computer Science Student at <a href="https://www.facebook.com/CityCollegeOfAngeles" target="_blank">City College of Angeles (CCA)</a></h3>
       <p align="left">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&width=435&lines=Passionate+Student+Developer;Web+%7C+Game+%7C+Mobile+App+Developer;Always+Learning+and+Exploring+🚀" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&width=480&lines=Passionate+Student+Developer;Web+%7C+Game+%7C+Mobile+App+Developer;Guitarist+🎸+%7C+YouTuber+🎥+%7C+Cuber+🧩;Always+Learning+and+Exploring+🚀" alt="Typing SVG" />
       </p>
+      <p align="left" style="font-size:16px;">
+        I'm a passionate developer who loves creating interactive and meaningful projects.  
+        Beyond coding, I enjoy making music on my guitar, solving Rubik’s cubes, and sharing creative content on YouTube.  
+        I believe in continuous learning, collaboration, and growing both in skill and character.  
+      </p>
+      <blockquote align="left" style="font-style:italic; color:#00f0ff;">
+        "And we know that in all things God works for the good of those who love him,  
+        who have been called according to his purpose." — <b>Romans 8:28</b>
+      </blockquote>
     </td>
   </tr>
 </table>
