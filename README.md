@@ -1,8 +1,5 @@
 # 🌐 7OOP Portfolio
 
-## 🏠 Github Page  
-- [Click Here](https://dbuccat24-0032.github.io/7OOP/)  
-
 ## 📖 About Me  
 
 <table>
@@ -20,30 +17,30 @@
   </tr>
 </table>
 
-## 🎯 Area of Interest  
+## 🧠 Skills  
 
+### 💻 **Programming Languages**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" width="40" /> Web Development  
+  <img src="https://skillicons.dev/icons?i=python" width="45" /> <b>Python</b>  
   <br><br>
-  <img src="https://skillicons.dev/icons?i=unity,cs" width="40" /> Game Development  
+  <img src="https://skillicons.dev/icons?i=java" width="45" /> <b>Java</b>  
   <br><br>
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio" width="40" /> Mobile App Development  
+  <img src="https://skillicons.dev/icons?i=html,css,js" width="45" /> <b>HTML, CSS, JavaScript</b>  
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=c" width="45" /> <b>C</b>  
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=mysql" width="45" /> <b>SQL</b>  
 </p>
 
-## 💡 Programming Languages
+---
 
+### 🚀 **Areas of Interest**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="25" /> 🐍 Python  
-  <br>
-  <img src="https://skillicons.dev/icons?i=java" width="25" /> ☕ Java  
-  <br>
-  <img src="https://skillicons.dev/icons?i=html" width="25" /> 🌐 HTML  
-  <img src="https://skillicons.dev/icons?i=css" width="25" /> CSS  
-  <img src="https://skillicons.dev/icons?i=js" width="25" /> JavaScript  
-  <br>
-  <img src="https://skillicons.dev/icons?i=c" width="25" /> 🖥️ C  
-  <br>
-  <img src="https://skillicons.dev/icons?i=mysql" width="25" /> 📊 SQL  
+  <img src="https://skillicons.dev/icons?i=html,css,js" width="45" /> <b>Web Development</b>  
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=unity,cs" width="45" /> <b>Game Development</b>  
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio" width="45" /> <b>Mobile App Development</b>  
 </p>
 
 ## Projects
@@ -54,7 +51,7 @@
 - [Project 4](./Projects/Midterms/Lab%20Task%203.pdf) - Midterm Lab Task 3. Using List Collections
 - [Project 5](./Projects/Midterms/Lab%20Task%204.pdf) - Midterm Lab Task 4. Using Dictionary Collections
 - [Project 6](./Projects/Midterms/Lab%20Task%205.pdf) - Midterm Lab Task 5. Creating and Instantiating Classes
-- [Project 7](./Projects/Midterms/Lab%20Task%206.pdf) - Midterm Lab Task 6. Overloaded Consturctors
+- [Project 7](./Projects/Midterms/Lab%20Task%206.pdf) - Midterm Lab Task 6. Overloaded Constructors
 
 ### Finals
 - [Project 1](./Projects/Finals/Lab%20Task%201.pdf) - Finals Lab Task 1. Encapsulation
