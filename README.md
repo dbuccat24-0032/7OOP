@@ -19,7 +19,7 @@
 
 ## 💻 Skills  
 
-### 🎯 **Area of Interest**
+### 🎯 **Interest**
 
 <table>
   <tr>
@@ -48,7 +48,7 @@
   </tr>
 </table>
 
-### 💻 **Programming Languages**  
+### 💻 **Languages**  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" width="55"/>  
   <img src="https://skillicons.dev/icons?i=java" width="55"/>  
