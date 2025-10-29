@@ -37,23 +37,8 @@
       <img src="https://skillicons.dev/icons?i=flutter,androidstudio" width="80" />
       <b>Mobile App Development</b>
     </td>
-    <td align="left" width="50%">
-      <img src="https://skillicons.dev/icons?i=python" width="80" />
-      <b>Automation</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="left" width="50%">
-      <img src="https://skillicons.dev/icons?i=github,vscode" width="80" />
-      <b>Software Tools & Workflow</b>
-    </td>
-    <td align="left" width="50%">
-      <img src="https://skillicons.dev/icons?i=figma,canva" width="80" />
-      <b>UI/UX Design</b>
-    </td>
   </tr>
 </table>
-
 
 ### 💻 **Programming Languages**  
 <p align="left">
