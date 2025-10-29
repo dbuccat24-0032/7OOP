@@ -19,6 +19,31 @@
 
 ## 🧠 Skills  
 
+### 🎯 **Area of Interest**  
+
+<table>
+  <tr>
+    <td align="left" width="50%">
+      <img src="https://skillicons.dev/icons?i=html,css,js" width="60" />
+      <b>Web Development</b>
+    </td>
+    <td align="left" width="50%">
+      <img src="https://skillicons.dev/icons?i=unity,cs" width="60" />
+      <b>Game Development</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="50%">
+      <img src="https://skillicons.dev/icons?i=flutter,androidstudio" width="60" />
+      <b>Mobile App Development</b>
+    </td>
+    <td align="left" width="50%">
+      <img src="https://skillicons.dev/icons?i=python" width="60" />
+      <b>Data Science</b>
+    </td>
+  </tr>
+</table>
+
 ### 💻 **Programming Languages**  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" width="55"/>  
@@ -32,19 +57,6 @@
 
 <p align="left">
   <b>Python &nbsp;•&nbsp; Java &nbsp;•&nbsp; HTML &nbsp;•&nbsp; CSS &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; C &nbsp;•&nbsp; SQL</b>
-</p>
-
----
-
-### 🚀 **Areas of Interest**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" width="55" />  
-  <img src="https://skillicons.dev/icons?i=unity,cs" width="55" />  
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio" width="55" />  
-</p>
-
-<p align="center">
-  <b>Web Development &nbsp;•&nbsp; Game Development &nbsp;•&nbsp; Mobile App Development</b>
 </p>
 
 ## Projects
