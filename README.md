@@ -1,11 +1,7 @@
 # 🌐 7OOP Portfolio
 
----
-
 ## 🏠 Github Page  
 - [Click Here](https://dbuccat24-0032.github.io/7OOP/)  
-
----
 
 ## 📖 About Me  
 
@@ -24,8 +20,6 @@
   </tr>
 </table>
 
----
-
 ## 🎯 Area of Interest  
 
 <p align="left">
@@ -35,8 +29,6 @@
   <br><br>
   <img src="https://skillicons.dev/icons?i=flutter,androidstudio" width="40" /> Mobile App Development  
 </p>
-
----
 
 ## 💡 Programming Languages
 
@@ -53,8 +45,6 @@
   <br>
   <img src="https://skillicons.dev/icons?i=mysql" width="25" /> 📊 SQL  
 </p>
-
----
 
 ## Projects
 ### Midterms
@@ -74,14 +64,10 @@
 - [Project 5](./Projects/Finals/Lab%20Task%205.pdf) -
 - [Project 6](./Projects/Finals/Lab%20Task%206.pdf) -
   
----
-
 ## 🎉 Fun Facts About Me  
 - 🎮 I enjoy playing games in my free time.  
 - 🎸 I love playing the guitar and making music.  
 - 🎥 I like creating YouTube content.  
-
----
 
 ## 📫 Contact Me
 <p align="left">
