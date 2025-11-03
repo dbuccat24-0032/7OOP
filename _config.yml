@@ -36,6 +36,9 @@ social_links:
     url: "https://www.youtube.com/@DanielRobertBuccat"
   - name: "TikTok"
     url: "https://www.tiktok.com/@danielrobertbuccat"
+    
+sass:
+  style: compressed
 
 google_analytics: false
 future: true
