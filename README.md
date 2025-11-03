@@ -8,10 +8,10 @@
       <img src="Images/Profile.jpg" alt="Daniel Robert Buccat" width="220" style="border-radius:60%; box-shadow: 0px 0px 25px #00f0ff;"/>
     </td>
     <td width="70%" valign="top">
-      <h1 align="left">Hi there! I'm <span style="color:#00f0ff;">Daniel Robert Buccat</span> 👋</h1>
+      <h1 align="left">Hi there! I'm <span style="color:#00f0ff;">Daniel Robert T. Buccat</span> 👋</h1>
       <h3 align="left">🎓 2nd Year Computer Science Student at <a href="https://www.facebook.com/CityCollegeOfAngeles" target="_blank">City College of Angeles (CCA)</a></h3>
       <p align="left">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&width=500&lines=Guitarist+%7C+Youtuber+%7C+Cuber+%7C+Developer;Always+Learning+and+Exploring+%F0%9F%9A%80" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFA500&width=500&lines=Guitarist+%7C+Youtuber+%7C+Cuber+%7C+Developer;Always+Learning+and+Exploring+%F0%9F%9A%80" alt="Typing SVG" />
       </p>
       <p align="left" style="font-size:16px;">
         I’m a 2nd-year Computer Science student passionate about creating meaningful software solutions.  
@@ -100,9 +100,25 @@
 </p>
   
 ## 🎉 Fun Facts About Me  
-- 🎮 I enjoy playing games in my free time.  
-- 🎸 I love playing the guitar and making music.  
-- 🎥 I like creating YouTube content.  
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://cdn-icons-png.flaticon.com/512/1031/1031429.png" width="80"><br>
+      <b>🎮 Gamer at Heart</b><br>
+      I love exploring immersive game worlds and competing with friends.
+    </td>
+    <td align="center" width="33%">
+      <img src="https://cdn-icons-png.flaticon.com/512/3580/3580382.png" width="80"><br>
+      <b>🎸 Music Enthusiast</b><br>
+      I play the guitar and enjoy expressing creativity through music.
+    </td>
+    <td align="center" width="33%">
+      <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="80"><br>
+      <b>🎥 Content Creator</b><br>
+      I create YouTube videos — mostly Minecraft and tech-related content!
+    </td>
+  </tr>
+</table> 
 
 ## 📫 Contact Me
 <p align="left">
