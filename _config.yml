@@ -1,5 +1,42 @@
 title: "Daniel Robert Buccat | 7OOP Portfolio"
-description: "Midterm and Final Projects for 7OOP — City College of Angeles"
-theme: jekyll-theme-cayman
+description: "1st Semester 7OOP Projects"
+theme: jekyll-theme-minimal
 show_downloads: false
 markdown: kramdown
+
+logo: "Images/Profile.jpg"
+github:
+  is_project_page: false
+
+color:
+  background: "#0a0a0a"
+  text: "#f5f5f5"
+  accent: "#00f0ff"
+
+nav:
+  - name: "🏠 Home"
+    link: "/"
+  - name: "📘 Midterms"
+    link: "/Projects/Midterms/"
+  - name: "🎓 Finals"
+    link: "/Projects/Finals/"
+  - name: "📫 Contact"
+    link: "#contact"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+social_links:
+  - name: "Facebook"
+    url: "https://www.facebook.com/danielrobbuccat"
+  - name: "Instagram"
+    url: "https://www.instagram.com/danielrobbuccat/"
+  - name: "YouTube"
+    url: "https://www.youtube.com/@DanielRobertBuccat"
+  - name: "TikTok"
+    url: "https://www.tiktok.com/@danielrobertbuccat"
+
+google_analytics: false
+future: true
+highlighter: rouge
