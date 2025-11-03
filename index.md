@@ -25,8 +25,6 @@
   </tr>
 </table>
 
----
-
 ## 💻 Skills  
 
 ### 🎯 Interest
@@ -57,8 +55,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ### 💻 Languages
 <p align="left">
@@ -124,8 +120,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ## 📫 Contact Me
 <p align="left">
