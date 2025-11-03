@@ -77,80 +77,28 @@
 ## 🗂️ **Projects**
 
 ### 📘 Midterm Projects
-<div align="left">
-
-  <a href="./Projects/Midterms/Paired%20Task%201.pdf" target="_blank" style="text-decoration:none;">
-    <div style="border: 2px solid #00f0ff; border-radius: 15px; padding: 12px; margin: 6px 0; width: 95%; background-color: #0a0a0a; color: #00f0ff; box-shadow: 0 0 10px #00f0ff;">
-      <b>🧩 Paired Task 1</b>
-    </div>
-  </a>
-
-  <a href="./Projects/Midterms/Lab%20Task%201.pdf" target="_blank" style="text-decoration:none;">
-    <div style="border: 2px solid #00f0ff; border-radius: 15px; padding: 12px; margin: 6px 0; width: 95%; background-color: #0a0a0a; color: #00f0ff; box-shadow: 0 0 10px #00f0ff;">
-      <b>💡 Lab Task 1:</b> Getting Started with Python
-    </div>
-  </a>
-
-  <a href="./Projects/Midterms/Lab%20Task%202.pdf" target="_blank" style="text-decoration:none;">
-    <div style="border: 2px solid #00f0ff; border-radius: 15px; padding: 12px; margin: 6px 0; width: 95%; background-color: #0a0a0a; color: #00f0ff; box-shadow: 0 0 10px #00f0ff;">
-      <b>🔁 Lab Task 2:</b> Loop Construct
-    </div>
-  </a>
-
-  <a href="./Projects/Midterms/Lab%20Task%203.pdf" target="_blank" style="text-decoration:none;">
-    <div style="border: 2px solid #00f0ff; border-radius: 15px; padding: 12px; margin: 6px 0; width: 95%; background-color: #0a0a0a; color: #00f0ff; box-shadow: 0 0 10px #00f0ff;">
-      <b>📋 Lab Task 3:</b> Using List Collections
-    </div>
-  </a>
-
-  <a href="./Projects/Midterms/Lab%20Task%204.pdf" target="_blank" style="text-decoration:none;">
-    <div style="border: 2px solid #00f0ff; border-radius: 15px; padding: 12px; margin: 6px 0; width: 95%; background-color: #0a0a0a; color: #00f0ff; box-shadow: 0 0 10px #00f0ff;">
-      <b>🗂️ Lab Task 4:</b> Using Dictionary Collections
-    </div>
-  </a>
-
-  <a href="./Projects/Midterms/Lab%20Task%205.pdf" target="_blank" style="text-decoration:none;">
-    <div style="border: 2px solid #00f0ff; border-radius: 15px; padding: 12px; margin: 6px 0; width: 95%; background-color: #0a0a0a; color: #00f0ff; box-shadow: 0 0 10px #00f0ff;">
-      <b>🏗️ Lab Task 5:</b> Creating and Instantiating Classes
-    </div>
-  </a>
-
-  <a href="./Projects/Midterms/Lab%20Task%206.pdf" target="_blank" style="text-decoration:none;">
-    <div style="border: 2px solid #00f0ff; border-radius: 15px; padding: 12px; margin: 6px 0; width: 95%; background-color: #0a0a0a; color: #00f0ff; box-shadow: 0 0 10px #00f0ff;">
-      <b>⚙️ Lab Task 6:</b> Overloaded Constructors
-    </div>
-  </a>
-</div>
+<p align="left">
+  🔹 <a href="./Projects/Midterms/Paired%20Task%201.pdf"><b>Paired Task 1</b></a><br>
+  🔹 <a href="./Projects/Midterms/Lab%20Task%201.pdf"><b>Lab Task 1:</b> Getting Started with Python</a><br>
+  🔹 <a href="./Projects/Midterms/Lab%20Task%202.pdf"><b>Lab Task 2:</b> Loop Construct</a><br>
+  🔹 <a href="./Projects/Midterms/Lab%20Task%203.pdf"><b>Lab Task 3:</b> Using List Collections</a><br>
+  🔹 <a href="./Projects/Midterms/Lab%20Task%204.pdf"><b>Lab Task 4:</b> Using Dictionary Collections</a><br>
+  🔹 <a href="./Projects/Midterms/Lab%20Task%205.pdf"><b>Lab Task 5:</b> Creating and Instantiating Classes</a><br>
+  🔹 <a href="./Projects/Midterms/Lab%20Task%206.pdf"><b>Lab Task 6:</b> Overloaded Constructors</a>
+</p>
 
 ---
 
 ### 🎓 Final Projects
-<div align="left">
+<p align="left">
+  🔹 <a href="./Projects/Finals/Lab%20Task%201.pdf"><b>Lab Task 1:</b> Encapsulation</a><br>
+  🔹 <a href="./Projects/Finals/Lab%20Task%202.pdf"><b>Lab Task 2:</b> Inheritance</a><br>
+  🔹 <a href="./Projects/Finals/Lab%20Task%203.pdf"><b>Lab Task 3:</b> Polymorphism</a><br>
+  🔹 <a href="./Projects/Finals/Lab%20Task%204.pdf"><b>Lab Task 4:</b> —</a><br>
+  🔹 <a href="./Projects/Finals/Lab%20Task%205.pdf"><b>Lab Task 5:</b> —</a><br>
+  🔹 <a href="./Projects/Finals/Lab%20Task%206.pdf"><b>Lab Task 6:</b> —</a>
+</p>
 
-  <a href="./Projects/Finals/Lab%20Task%201.pdf" target="_blank" style="text-decoration:none;">
-    <div style="border: 2px solid #00f0ff; border-radius: 15px; padding: 12px; margin: 6px 0; width: 95%; background-color: #0a0a0a; color: #00f0ff; box-shadow: 0 0 10px #00f0ff;">
-      <b>🔒 Lab Task 1:</b> Encapsulation
-    </div>
-  </a>
-
-  <a href="./Projects/Finals/Lab%20Task%202.pdf" target="_blank" style="text-decoration:none;">
-    <div style="border: 2px solid #00f0ff; border-radius: 15px; padding: 12px; margin: 6px 0; width: 95%; background-color: #0a0a0a; color: #00f0ff; box-shadow: 0 0 10px #00f0ff;">
-      <b>🧬 Lab Task 2:</b> Inheritance
-    </div>
-  </a>
-
-  <a href="./Projects/Finals/Lab%20Task%203.pdf" target="_blank" style="text-decoration:none;">
-    <div style="border: 2px solid #00f0ff; border-radius: 15px; padding: 12px; margin: 6px 0; width: 95%; background-color: #0a0a0a; color: #00f0ff; box-shadow: 0 0 10px #00f0ff;">
-      <b>🐦 Lab Task 3:</b> Polymorphism
-    </div>
-  </a>
-
-  <div style="border: 2px solid #555; border-radius: 15px; padding: 12px; margin: 6px 0; width: 95%; color: gray;">
-    <b>📝 Lab Task 4–6:</b> Coming Soon...
-  </div>
-</div>
-
-  
 ## 🎉 Fun Facts About Me  
 <table>
   <tr>
