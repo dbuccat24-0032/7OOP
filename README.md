@@ -77,48 +77,100 @@
 ## 🗂️ **Projects**
 
 ### 📘 Midterm Projects
-<p align="left">
-  🔹 <a href="./Projects/Midterms/Paired%20Task%201.pdf"><b>Paired Task 1</b></a><br>
-  🔹 <a href="./Projects/Midterms/Lab%20Task%201.pdf"><b>Lab Task 1:</b> Getting Started with Python</a><br>
-  🔹 <a href="./Projects/Midterms/Lab%20Task%202.pdf"><b>Lab Task 2:</b> Loop Construct</a><br>
-  🔹 <a href="./Projects/Midterms/Lab%20Task%203.pdf"><b>Lab Task 3:</b> Using List Collections</a><br>
-  🔹 <a href="./Projects/Midterms/Lab%20Task%204.pdf"><b>Lab Task 4:</b> Using Dictionary Collections</a><br>
-  🔹 <a href="./Projects/Midterms/Lab%20Task%205.pdf"><b>Lab Task 5:</b> Creating and Instantiating Classes</a><br>
-  🔹 <a href="./Projects/Midterms/Lab%20Task%206.pdf"><b>Lab Task 6:</b> Overloaded Constructors</a>
-</p>
+<div align="left">
+
+  <a href="./Projects/Midterms/Paired%20Task%201.pdf" target="_blank" style="text-decoration:none;">
+    <div style="border: 2px solid #00f0ff; border-radius: 15px; padding: 12px; margin: 6px 0; width: 95%; background-color: #0a0a0a; color: #00f0ff; box-shadow: 0 0 10px #00f0ff;">
+      <b>🧩 Paired Task 1</b>
+    </div>
+  </a>
+
+  <a href="./Projects/Midterms/Lab%20Task%201.pdf" target="_blank" style="text-decoration:none;">
+    <div style="border: 2px solid #00f0ff; border-radius: 15px; padding: 12px; margin: 6px 0; width: 95%; background-color: #0a0a0a; color: #00f0ff; box-shadow: 0 0 10px #00f0ff;">
+      <b>💡 Lab Task 1:</b> Getting Started with Python
+    </div>
+  </a>
+
+  <a href="./Projects/Midterms/Lab%20Task%202.pdf" target="_blank" style="text-decoration:none;">
+    <div style="border: 2px solid #00f0ff; border-radius: 15px; padding: 12px; margin: 6px 0; width: 95%; background-color: #0a0a0a; color: #00f0ff; box-shadow: 0 0 10px #00f0ff;">
+      <b>🔁 Lab Task 2:</b> Loop Construct
+    </div>
+  </a>
+
+  <a href="./Projects/Midterms/Lab%20Task%203.pdf" target="_blank" style="text-decoration:none;">
+    <div style="border: 2px solid #00f0ff; border-radius: 15px; padding: 12px; margin: 6px 0; width: 95%; background-color: #0a0a0a; color: #00f0ff; box-shadow: 0 0 10px #00f0ff;">
+      <b>📋 Lab Task 3:</b> Using List Collections
+    </div>
+  </a>
+
+  <a href="./Projects/Midterms/Lab%20Task%204.pdf" target="_blank" style="text-decoration:none;">
+    <div style="border: 2px solid #00f0ff; border-radius: 15px; padding: 12px; margin: 6px 0; width: 95%; background-color: #0a0a0a; color: #00f0ff; box-shadow: 0 0 10px #00f0ff;">
+      <b>🗂️ Lab Task 4:</b> Using Dictionary Collections
+    </div>
+  </a>
+
+  <a href="./Projects/Midterms/Lab%20Task%205.pdf" target="_blank" style="text-decoration:none;">
+    <div style="border: 2px solid #00f0ff; border-radius: 15px; padding: 12px; margin: 6px 0; width: 95%; background-color: #0a0a0a; color: #00f0ff; box-shadow: 0 0 10px #00f0ff;">
+      <b>🏗️ Lab Task 5:</b> Creating and Instantiating Classes
+    </div>
+  </a>
+
+  <a href="./Projects/Midterms/Lab%20Task%206.pdf" target="_blank" style="text-decoration:none;">
+    <div style="border: 2px solid #00f0ff; border-radius: 15px; padding: 12px; margin: 6px 0; width: 95%; background-color: #0a0a0a; color: #00f0ff; box-shadow: 0 0 10px #00f0ff;">
+      <b>⚙️ Lab Task 6:</b> Overloaded Constructors
+    </div>
+  </a>
+</div>
 
 ---
 
 ### 🎓 Final Projects
-<p align="left">
-  🔹 <a href="./Projects/Finals/Lab%20Task%201.pdf"><b>Lab Task 1:</b> Encapsulation</a><br>
-  🔹 <a href="./Projects/Finals/Lab%20Task%202.pdf"><b>Lab Task 2:</b> Inheritance</a><br>
-  🔹 <a href="./Projects/Finals/Lab%20Task%203.pdf"><b>Lab Task 3:</b> Polymorphism</a><br>
-  🔹 <a href="./Projects/Finals/Lab%20Task%204.pdf"><b>Lab Task 4:</b> —</a><br>
-  🔹 <a href="./Projects/Finals/Lab%20Task%205.pdf"><b>Lab Task 5:</b> —</a><br>
-  🔹 <a href="./Projects/Finals/Lab%20Task%206.pdf"><b>Lab Task 6:</b> —</a>
-</p>
+<div align="left">
+
+  <a href="./Projects/Finals/Lab%20Task%201.pdf" target="_blank" style="text-decoration:none;">
+    <div style="border: 2px solid #00f0ff; border-radius: 15px; padding: 12px; margin: 6px 0; width: 95%; background-color: #0a0a0a; color: #00f0ff; box-shadow: 0 0 10px #00f0ff;">
+      <b>🔒 Lab Task 1:</b> Encapsulation
+    </div>
+  </a>
+
+  <a href="./Projects/Finals/Lab%20Task%202.pdf" target="_blank" style="text-decoration:none;">
+    <div style="border: 2px solid #00f0ff; border-radius: 15px; padding: 12px; margin: 6px 0; width: 95%; background-color: #0a0a0a; color: #00f0ff; box-shadow: 0 0 10px #00f0ff;">
+      <b>🧬 Lab Task 2:</b> Inheritance
+    </div>
+  </a>
+
+  <a href="./Projects/Finals/Lab%20Task%203.pdf" target="_blank" style="text-decoration:none;">
+    <div style="border: 2px solid #00f0ff; border-radius: 15px; padding: 12px; margin: 6px 0; width: 95%; background-color: #0a0a0a; color: #00f0ff; box-shadow: 0 0 10px #00f0ff;">
+      <b>🐦 Lab Task 3:</b> Polymorphism
+    </div>
+  </a>
+
+  <div style="border: 2px solid #555; border-radius: 15px; padding: 12px; margin: 6px 0; width: 95%; color: gray;">
+    <b>📝 Lab Task 4–6:</b> Coming Soon...
+  </div>
+</div>
+
   
 ## 🎉 Fun Facts About Me  
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/512/1031/1031429.png" width="80"><br>
-      <b>🎮 Gamer at Heart</b><br>
-      I love exploring immersive game worlds and competing with friends.
+      <img src="Images/controller_logo.png" width="90" style="filter: drop-shadow(0px 0px 10px #00f0ff);"><br>
+      <b style="font-size:18px;">Gamer at Heart</b><br>
+      I love exploring immersive game worlds and playing with friends during my free time.
     </td>
     <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/512/3580/3580382.png" width="80"><br>
-      <b>🎸 Music Enthusiast</b><br>
-      I play the guitar and enjoy expressing creativity through music.
+      <img src="Images/guitar_logo.png" width="90" style="filter: drop-shadow(0px 0px 10px #00f0ff);"><br>
+      <b style="font-size:18px;">Music Enthusiast</b><br>
+      I play the guitar and use music as a way to express creativity and worship.
     </td>
     <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="80"><br>
-      <b>🎥 Content Creator</b><br>
+      <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="90" style="filter: drop-shadow(0px 0px 10px #00f0ff);"><br>
+      <b style="font-size:18px;">Content Creator</b><br>
       I create YouTube videos — mostly Minecraft and tech-related content!
     </td>
   </tr>
-</table> 
+</table>
 
 ## 📫 Contact Me
 <p align="left">
