@@ -1,10 +1,11 @@
 title: "Daniel Robert Buccat | 7OOP Portfolio"
-description: "1st Semester 7OOP Projects"
+description: "📘 1st Semester 7OOP Projects"
 theme: jekyll-theme-minimal
 show_downloads: false
 markdown: kramdown
 
 logo: "Images/Profile.jpg"
+
 github:
   is_project_page: false
 
@@ -18,3 +19,31 @@ include:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+
+author:
+  name: "Daniel Robert Buccat"
+  email: "dbuccat24-0032@cca.edu.ph"
+
+social_links:
+  - name: "Facebook"
+    url: "https://www.facebook.com/danielrobbuccat"
+  - name: "Instagram"
+    url: "https://www.instagram.com/danielrobbuccat"
+  - name: "YouTube"
+    url: "https://www.youtube.com/@DanielRobertBuccat"
+  - name: "TikTok"
+    url: "https://www.tiktok.com/@danielrobertbuccat"
+
+nav:
+  - name: "🏠 Home"
+    link: "/"
+  - name: "📘 Midterm Projects"
+    link: "/Projects/Midterms/"
+  - name: "🎓 Final Projects"
+    link: "/Projects/Finals/"
+  - name: "📫 Contact"
+    link: "#contact"
+
+highlighter: rouge
+future: true
+google_analytics: false
