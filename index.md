@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="Assets/CSS/Style.css">
+
 # 💼 7OOP Portfolio
 
 ## 📖 About Me  
