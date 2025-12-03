@@ -93,9 +93,9 @@
   🔹 <a href="./Projects/Finals/Lab%20Task%201.pdf"><b>Lab Task 1:</b> Encapsulation</a><br>
   🔹 <a href="./Projects/Finals/Lab%20Task%202.pdf"><b>Lab Task 2:</b> Inheritance</a><br>
   🔹 <a href="./Projects/Finals/Lab%20Task%203.pdf"><b>Lab Task 3:</b> Polymorphism</a><br>
-  🔹 <a href="./Projects/Finals/Lab%20Task%204.pdf"><b>Lab Task 4:</b> —</a><br>
-  🔹 <a href="./Projects/Finals/Lab%20Task%205.pdf"><b>Lab Task 5:</b> —</a><br>
-  🔹 <a href="./Projects/Finals/Lab%20Task%206.pdf"><b>Lab Task 6:</b> —</a>
+  🔹 <a href="./Projects/Finals/Lab%20Task%204.pdf"><b>Lab Task 4:</b> Designing Tkinter GUI using OOP</a><br>
+  🔹 <a href="./Projects/Finals/Lab%20Task%205.pdf"><b>Lab Task 5:</b> Grading Program using Tkinter</a><br>
+  🔹 <a href="./Projects/Finals/Lab%20Task%206.pdf"><b>Lab Task 6:</b> Connection Mysql using Python using CLI</a>
 </p>
 
 ---
