@@ -95,7 +95,7 @@
   🔹 <a href="./Projects/Finals/Lab%20Task%203.pdf"><b>Lab Task 3:</b> Polymorphism</a><br>
   🔹 <a href="./Projects/Finals/Lab%20Task%204.pdf"><b>Lab Task 4:</b> Designing Tkinter GUI using OOP</a><br>
   🔹 <a href="./Projects/Finals/Lab%20Task%205.pdf"><b>Lab Task 5:</b> Grading Program using Tkinter</a><br>
-  🔹 <a href="./Projects/Finals/Lab%20Task%206.pdf"><b>Lab Task 6:</b> Connection Mysql using Python using CLI</a>
+  🔹 <a href="./Projects/Finals/Lab%20Task%206.pdf"><b>Lab Task 6:</b> Connection Mysql using Python using CLI</a><br>
   🔹 <a href="./Projects/Finals/Lab%20Task%207.pdf"><b>Lab Task 7:</b> Tkinter CRUD GUI</a>
 </p>
 
